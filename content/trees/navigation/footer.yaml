@@ -1,0 +1,19 @@
+tree:
+  -
+    id: 7b46bd33-91e2-4648-a4af-1905e13ac231
+    title: Home
+    url: 'http://laravel-cms.test'
+  -
+    id: bc805c1a-4fef-4cf0-9696-760b571d3db6
+    title: About
+    url: 'http://laravel-cms.test/about'
+  -
+    id: 5d316021-6ff7-4c32-95a6-7eaa2e3bc44a
+    title: Contact
+    url: 'http://laravel-cms.test/contact'
+  -
+    id: f03d3f94-8436-433d-9cef-73a5241a5f9e
+    title: Github
+    url: 'http://github.com'
+    data:
+      external_link: true

@@ -1,0 +1,17 @@
+tree:
+  -
+    id: 5fd12d45-cfeb-4558-9452-b2c7f67308b6
+    title: Home
+    url: 'http://laravel-cms.test/#'
+  -
+    id: f2a98f47-fbff-4558-9035-83fd4944c6ef
+    title: Post
+    url: 'http://laravel-cms.test/posts'
+  -
+    id: efb97fe8-e71e-493e-b036-1e91cb15817e
+    title: Contact
+    url: 'http://laravel-cms.test/contact'
+  -
+    id: e2894f3c-d76d-437f-b4c6-6afed42cd56e
+    title: About
+    url: 'http://laravel-cms.test/about'
